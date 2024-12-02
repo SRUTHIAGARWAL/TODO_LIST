@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font-style: italic;
+}
+.btn{
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    size: 10rem;
+}
+input{
+    border: 10px sollid black;
+}
+li{
+    margin: 5px;
+    font-family: fantasy;
+
+}
+button{
+    margin-left: 5px;
+}
